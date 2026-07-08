@@ -1,3 +1,15 @@
+
+This project was developed collaboratively as a Mini Project by the following team members:
+
+Abhay Y
+Hemanth Kumar
+Nishith S K
+Sagar Nayak
+
+Each team member contributed to the design, development, implementation, testing, and documentation of the project.
+
+This repository is maintained under Abhay Y's GitHub profile as part of his academic and professional portfolio while acknowledging the valuable contributions of all team members.
+
 **Sign-Language-To-Text-and-Speech-Conversion**
 
 **ABSTRACT:** 
